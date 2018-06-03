@@ -1,0 +1,12 @@
+D:\MVVM_Project\MVVM_Project\MVVM_Project\bin\MVVM_Project.dll.config
+D:\MVVM_Project\MVVM_Project\MVVM_Project\bin\MVVM_Project.dll
+D:\MVVM_Project\MVVM_Project\MVVM_Project\bin\MVVM_Project.pdb
+D:\MVVM_Project\MVVM_Project\MVVM_Project\bin\EntityFramework.dll
+D:\MVVM_Project\MVVM_Project\MVVM_Project\bin\EntityFramework.SqlServer.dll
+D:\MVVM_Project\MVVM_Project\MVVM_Project\bin\EntityFramework.xml
+D:\MVVM_Project\MVVM_Project\MVVM_Project\bin\EntityFramework.SqlServer.xml
+D:\MVVM_Project\MVVM_Project\MVVM_Project\obj\Debug\MVVM_Project.csprojResolveAssemblyReference.cache
+D:\MVVM_Project\MVVM_Project\MVVM_Project\obj\Debug\MVVM_Project.dll
+D:\MVVM_Project\MVVM_Project\MVVM_Project\obj\Debug\MVVM_Project.pdb
+D:\MVVM_Project\MVVM_Project\MVVM_Project\obj\Debug\MVVM_Project.Migrations.createdb.resources
+D:\MVVM_Project\MVVM_Project\MVVM_Project\obj\Debug\MVVM_Project.csproj.GenerateResource.Cache
